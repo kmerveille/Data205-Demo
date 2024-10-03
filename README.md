@@ -1,2 +1,2 @@
 # Data205-Demo
-First git Proj Data 205
+My first git Proj Data 205
